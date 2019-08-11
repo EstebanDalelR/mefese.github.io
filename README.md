@@ -35,7 +35,7 @@ Desarrollo de hardware y software | Encontrar una necesidad
 Programación | Monetizar o financiar la solución
 
 
-No cabe duda que el internet de las cosas va a cambiar nuestra formas de vivir y de trabajar en ese sentido podríamos decir que  somos nosotros lo que que debemos dar el salto a la innovación tecnologíca para poder llevar a las empresas a un siguinte nivel.  
+No cabe duda que el internet de las cosas va a cambiar nuestra formas de vivir y de trabajar, en ese sentido podríamos decir que  somos nosotros lo que que debemos dar el salto a la innovación tecnologíca para poder llevar a las empresas a un siguinte nivel.  
 
 
 
