@@ -3,11 +3,11 @@
 
 ## Adaptación y adopción del **IoT** en nuesto diario vivir.
 
-La internet de las cosas (**IoT**, por sus siglas en inglés), es parte de nuestro día a día desde que te colocas tu pulsera inteligente cada vez que te despiertas en las mañanas el analisis de datos que generan los distintos sensores, e incluso cundo te llega esa notificación que el Smartphone te recomienda solo por el echo que podo ser posible que hallas pasado cerca de ese sitió en algun momento. 
+La internet de las cosas (**IoT**, por sus siglas en inglés), es parte de nuestro día a día desde que te colocas tu pulsera inteligente cada vez que te despiertas en las mañanas, el analisis de datos que generan los distintos sensores, e incluso cundo te llega esa notificación que el Smartphone te recomienda solo por el echo que pudo ser posible que hallas pasado cerca de ese sitió en algun momento. 
 
-Esto me lleva a pensar que la **IoT** puede  traer muchas y buenas ventajas en temas finacieros para las stratup, grandes y medianes y pequeñas empresas.
+Esto me lleva a pensar que la **IoT** puede  traer muchas y buenas ventajas en temas finacieros para las stratup, grandes, medianes y pequeñas empresas.
 
-No olvidemos que debemos adaptarnos a esta tecnología ya que si nos preguntaramos y ponemos en una balanza que tiene más peso en  **la internet de las cosas** si los sensores la conectividad a internet, no dudariamos que en esta tecnología son las pesronas, ellas tienen la responsables de que cualquier proyecto se realize y pueda adoptarlo dentro de la empresa ya que no será un Robot o  sensores quienes hagan este tipo de tares, pero si un equipo de personas con conocimientos en tecnologías y mentalidad abierta, con una capasidad de adelantarse a los cabios y tendencías en un mercado grande y actualmenta en crecimiento.
+No olvidemos que debemos adaptarnos a esta tecnología ya que si nos preguntaramos, y ponemos en una balanza que tiene más peso en  **la internet de las cosas** si los sensores la conectividad a internet, no dudariamos que en esta tecnología son las pesronas, ellas tienen la responsables de que cualquier proyecto se realize y pueda adoptarlo dentro de la empresa ya que no será un Robot o sensores quienes hagan este tipo de tares, pero si un equipo de personas con conocimientos en tecnologías y mentalidad abierta, con una capasidad de adelantarse a los cabios y tendencías en un mercado grande y actualmenta en crecimiento.
 
 Algúnas de las característica importantes y que si podemos resaltar para llevar acabo un proyecto **IoT** con suficiente éxito y que imbolucra al equipo son: 
 
