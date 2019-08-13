@@ -47,7 +47,7 @@ Este proyecto está bajo la Licencia (MIT License. Copyright (c) 2019 Mario Ferd
 
 Expresiones de Gratitud 🎁
 
-Este articulo lo  escribí para motivarte a que somos nosotros lo que que debemos dar el salto a la innovación tecnologíca para poder llevar a las empresas a un siguinte nivel. 📢
+Este artículo lo  escribí para motivarte a que seamos nosotros lo que que demos el salto a la innovación tecnológíca para poder llevar a las empresas a un siguiente nivel. 📢
 
 
 
